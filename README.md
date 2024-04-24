@@ -52,7 +52,7 @@ Developed By: JANANI.V.S
 
 Register Number: 212222230050
 
-```
+```PYTHON
 from tensorflow import keras
 from tensorflow.keras import layers
 from tensorflow.keras import utils
